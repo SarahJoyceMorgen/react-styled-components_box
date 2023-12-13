@@ -2,7 +2,7 @@
 
 Currently, there is a component called [`BoxWithClassName`](./components/BoxWithClassName/index.js). This component is rendered twice in `./pages/_app.js`.
 
-This is why there are two boxes displayed, a green and a black one. They become red when you hover over them. Their styling is done via BEM and the `className` attribute.
+This is why there are two boxes displayed, a green and a black one. They become red when you hover over them. Their stylingnpm is done via BEM and the `className` attribute.
 
 ## Task
 
